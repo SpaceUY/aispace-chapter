@@ -6,7 +6,6 @@ layout: default
 # Welcome to the AI Development Guidelines!
 
 Hey Space!
-
 Welcome to your **AI Chapter**! 🎉
 
 ![AI Thinking](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWz7EN6XqVfRQD1wcO9zbvyo-nInOxMUuTDg&s)
