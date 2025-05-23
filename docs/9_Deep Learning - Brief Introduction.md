@@ -1,10 +1,10 @@
 ---
-title: OpenAI GPT
+title: Deep Learning - Brief Introduction
 layout: default
-nav_order: 8
+nav_order: 9
 ---
 
-#### 8. **OpenAI GPT: Assistants, Fine-Tuning, and Real-Time Chat**  
+#### 9. **Deep Learning - Brief Introduction**  
 **Scope**:  
 - Explain the capabilities of OpenAI's GPT (language models, assistants, etc.).  
 - Explore fine-tuning GPT models for specific tasks.  

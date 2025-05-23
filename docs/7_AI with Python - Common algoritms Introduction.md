@@ -1,10 +1,10 @@
 ---
-title: Common ML
+title: AI with Python - Common algoritms Introduction
 layout: default
-nav_order: 5
+nav_order: 7
 ---
 
-#### 6. **Common Machine Learning Algorithms: Theory and Use Cases**  
+#### 7. **AI with Python - Common algoritms Introduction**  
 **Scope**:  
 - Introduce key ML algorithms:  
    - **Linear Models**: Linear Regression, Logistic Regression  

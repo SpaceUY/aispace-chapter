@@ -1,10 +1,10 @@
 ---
-title: ElevenLabs
+title: Generative Image models - Introduction to Services and Models
 layout: default
-nav_order: 9
+nav_order: 10
 ---
 
-#### 9. **ElevenLabs: AI-Powered Text-to-Speech**  
+#### 10. **Generative Image models - Introduction to Services and Models**  
 **Scope**:  
 - Introduce ElevenLabs as a powerful text-to-speech API.  
 - Explore its use in creating lifelike voiceovers and speech synthesis.  

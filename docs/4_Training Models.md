@@ -1,10 +1,10 @@
 ---
 title: Supervised
 layout: default
-nav_order: 3
+nav_order: 4
 ---
 
-#### 3. **Fundamentals of Supervised Learning**  
+#### 4. **Training Models**  
 **Scope**:  
 - Explain the concept of labeled data and prediction tasks.  
 - Discuss regression and classification problems.  

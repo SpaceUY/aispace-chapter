@@ -1,10 +1,10 @@
 ---
-title: Types ML
+title: Classification in ML - Introduction
 layout: default
-nav_order: 2
+nav_order: 3
 ---
 
-#### 2. **Types of Machine Learning**
+#### **Classification in ML - Introduction**
 
 Machine Learning can be broadly categorized into three main types:  
 

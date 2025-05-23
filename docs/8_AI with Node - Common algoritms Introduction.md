@@ -1,10 +1,10 @@
 ---
-title: Introduction AI APIs
+title: AI with Node - Common algoritms Introduction
 layout: default
-nav_order: 7
+nav_order: 8
 ---
 
-#### 7. **Introduction to AI Solutions and APIs**  
+#### 8. **AI with Node - Common algoritms Introduction**  
 **Scope**:  
 - Explain what APIs are and how they enable AI solutions.  
 - Discuss the benefits of using AI APIs (speed, scalability, accessibility).  

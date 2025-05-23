@@ -1,10 +1,10 @@
 ---
-title: Introduction
+title: Machine Learning Landscape
 layout: default
-nav_order: 1
+nav_order: 2
 ---
 
-#### 1. **Introduction to Machine Learning and AI**  
+#### **Introduction to Machine Learning and AI**  
 
 Machine Learning (ML) and Artificial Intelligence (AI) are revolutionizing the modern world, enabling machines to analyze data, make decisions, and perform tasks traditionally reserved for humans. From chatbots to autonomous vehicles, AI is embedded in countless applications, solving complex problems and enhancing productivity.  
 

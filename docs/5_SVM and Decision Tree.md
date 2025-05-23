@@ -1,10 +1,10 @@
 ---
-title: Unsupervised
+title: SVM and Decision Tree
 layout: default
-nav_order: 4
+nav_order: 5
 ---
 
-#### 4. **Exploring Unsupervised Learning**  
+#### 5. **SVM and Decision Tree**  
 **Scope**:  
 - Define clustering and dimensionality reduction.  
 - Introduce algorithms like K-Means, DBSCAN, and PCA (Principal Component Analysis).  

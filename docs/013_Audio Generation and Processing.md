@@ -1,9 +1,9 @@
 ---
-title: AI APIs Aplications
+title: Audio Generation and Processing
 layout: default
-nav_order: 12
+nav_order: 13
 ---
-#### 12. **Bringing It All Together: Combining AI APIs for Real-World Applications**  
+#### 13. **Audio Generation and Processing**  
 **Scope**:  
 - Demonstrate how to integrate multiple AI APIs into a single solution.  
 - Use a practical example: Building an AI-powered creative app (e.g., speech-to-text + image generation + voiceover).  

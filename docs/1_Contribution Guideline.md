@@ -1,3 +1,9 @@
+---
+title: Contribution Guideline
+layout: default
+nav_order: 1
+---
+
 ## 📘 Contribution Guideline
 
 ### Purpose

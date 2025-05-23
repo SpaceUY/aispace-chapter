@@ -9,7 +9,7 @@ Hey Space!
 
 Welcome to your **AI Chapter**! 🎉
 
-![AI Thinking](https://media.giphy.com/media/fd8IRAkryIhX6/giphy.gif?cid=ecf05e479fore09w3ye09lu0j77vm5mlppw6ellqlum6amlr&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![AI Thinking](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWz7EN6XqVfRQD1wcO9zbvyo-nInOxMUuTDg&s)
 
 Here, you'll find everything you need to know about building **clean**, **efficient**, and **maintainable AI systems**. Whether you're working on model training, fine-tuning, or deploying AI solutions, these guidelines will ensure we are all aligned and delivering state-of-the-art results.
 
@@ -17,7 +17,7 @@ Want to contribute? Reach out to Mario De Los Santos to coordinate! You can also
 
 ## Why Do We Need This?
 
-Great question! Consistency is key to our success in the AI world. By following these guidelines, we can:
+Great question! Consistency is key to our success in the AI as company. By following these guidelines, we could:
 
 - **Collaborate Smoothly**: Consistent code and processes make it easier to work on each other's AI models and pipelines.  
 - **Ensure Model Quality**: Well-structured code and documentation improve reproducibility, debugging, and scalability of AI systems.  
