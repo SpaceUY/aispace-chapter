@@ -1,0 +1,156 @@
+{"0": {
+    "doc": "Generative Image models - Introduction to Services and Models",
+    "title": "Generative Image models - Introduction to Services and Models",
+    "content": "10. Generative Image models - Introduction to Services and Models . Scope: . | Introduce ElevenLabs as a powerful text-to-speech API. | Explore its use in creating lifelike voiceovers and speech synthesis. | Discuss applications in audiobooks, virtual assistants, and content creation. | . ",
+    "url": "/aispace-chapter/docs/010_Generative%20Image%20models%20-%20Introduction%20to%20Services%20and%20Models.html",
+    
+    "relUrl": "/docs/010_Generative%20Image%20models%20-%20Introduction%20to%20Services%20and%20Models.html"
+  },"1": {
+    "doc": "Large Lenguage Models - Introduction and Model selection",
+    "title": "Large Lenguage Models - Introduction and Model selection",
+    "content": "11. Large Lenguage Models - Introduction and Model selection . Scope: . | Introduce Runway ML for AI-powered creative solutions. | Explain its capabilities: video editing, text-to-image, and generative media. | Showcase use cases for designers, video creators, and artists. | . ",
+    "url": "/aispace-chapter/docs/011_Large%20Lenguage%20Models%20-%20Introduction%20and%20Model%20selection.html",
+    
+    "relUrl": "/docs/011_Large%20Lenguage%20Models%20-%20Introduction%20and%20Model%20selection.html"
+  },"2": {
+    "doc": "GPT Tools - Practical Introduction",
+    "title": "GPT Tools - Practical Introduction",
+    "content": "12. GPT Tools - Practical Introduction . Scope: . | Explain how ComfyUI works as a node-based AI workflow tool. | Discuss its flexibility in creating and customizing AI pipelines. | Highlight real-world use cases: Stable Diffusion pipelines and automation | . ",
+    "url": "/aispace-chapter/docs/012_GPT%20Tools%20-%20Practical%20Introduction.html",
+    
+    "relUrl": "/docs/012_GPT%20Tools%20-%20Practical%20Introduction.html"
+  },"3": {
+    "doc": "Audio Generation and Processing",
+    "title": "Audio Generation and Processing",
+    "content": "13. Audio Generation and Processing . Scope: . | Demonstrate how to integrate multiple AI APIs into a single solution. | Use a practical example: Building an AI-powered creative app (e.g., speech-to-text + image generation + voiceover). | Summarize the importance of leveraging AI APIs for productivity, creativity, and automation. | . ",
+    "url": "/aispace-chapter/docs/013_Audio%20Generation%20and%20Processing.html",
+    
+    "relUrl": "/docs/013_Audio%20Generation%20and%20Processing.html"
+  },"4": {
+    "doc": "Contribution Guideline",
+    "title": "📘 Contribution Guideline",
+    "content": "Purpose . This document serves as a blueprint for contributing chapters to the AI Development Guidelines. Each chapter should resemble a scientific computer science paper: precise, well-structured, and justified with real-world relevance or empirical insight. Additionally, we plan to make contributions to https://huggingface.co/SpaceDevUy, providing an opportunity for contributors to showcase their work and expertise as AI developers in this collaborative space. Introduction . When starting your contribution, consider these guiding questions to frame your chapter effectively: . | What specific problem or knowledge gap does your chapter address? | How will this content help AI practitioners improve their work? | What unique perspective or expertise are you bringing to this topic? | How does this topic connect to the broader AI development ecosystem? | What practical outcomes should readers expect after studying this chapter? | . Answering these questions will help you create a focused, valuable contribution that meets the needs of our audience. General Expectations . | Follow a clear, logical structure. | Use precise, technical language. | Cite references, tools, or datasets where applicable. | Include diagrams or examples when helpful. | Ensure reproducibility for code or experiments, if included. | . ",
+    "url": "/aispace-chapter/docs/1_Contribution%20Guideline.html#-contribution-guideline",
+    
+    "relUrl": "/docs/1_Contribution%20Guideline.html#-contribution-guideline"
+  },"5": {
+    "doc": "Contribution Guideline",
+    "title": "✍️ Required Chapter Structure",
+    "content": "Each chapter must address the following sections and guiding questions: . 1. Motivation . Set the stage for why this chapter matters. | What problem or opportunity does this chapter address? Describe the real-world need or technical gap. | Why is this topic important in the context of AI development? Connect it to broader trends or industry needs. | Who is the intended audience? Clarify the level of expertise you’re writing for. | . 2. Background and Context . Provide readers with the necessary foundation. | What key concepts, prior work, or tools are required to understand this topic? Add citations or visual references when helpful. | How does this relate to existing ML/AI workflows? Position it within existing methodologies or tools. | . 3. Technical Description . Dive deep into the core methods or systems. | What are the core ideas, algorithms, or techniques being introduced or discussed? Define and explain them. | What are the formal definitions, assumptions, or parameters? Include relevant equations or logical conditions. | How does this method work? Include pseudocode, flowcharts, or diagrams to clarify the process. | . 4. Examples and Applications . Make it tangible with real-world context. | Can you provide an example, case study, or a project at Space where something related was used? Add screenshots or references if possible. | What code, data, or services are involved? Include links or brief usage explanations. | Include reproducible snippets or links to repositories if applicable. Walk readers through a basic example. | . 5. Evaluation and Comparison (if relevant) . Highlight the effectiveness, limitations, and alternatives. | How does this technique compare to alternatives? Try to give options, the same technology isn’t always applicable, but similar ones might be. | What are its limitations and trade-offs? These might not be obvious during development, but reflecting on them helps future contributors understand your choices better. | Include quantitative or qualitative assessments where possible. Metrics, benchmarks, or subjective reviews can work. If you’re short on time, just include the links and resources that helped you decide. | . 6. Best Practices and Recommendations . Help others succeed with your insights. | What should practitioners keep in mind when using this? Explain considerations based on your real-world experience. | Any pitfalls to avoid? Think of mistakes you made, or edge cases others should handle. This is where your lessons learned shine. | . 7. Conclusion . Wrap it up with clarity and actionable insight. | Summarize the key takeaways. Use bullet points – they’re great for highlighting what matters. | Suggest directions for further reading or exploration. Mention libraries, tutorials, papers, or videos that expand on your topic. | . ",
+    "url": "/aispace-chapter/docs/1_Contribution%20Guideline.html#%EF%B8%8F-required-chapter-structure",
+    
+    "relUrl": "/docs/1_Contribution%20Guideline.html#️-required-chapter-structure"
+  },"6": {
+    "doc": "Contribution Guideline",
+    "title": "📄 Formatting and Style Guidelines",
+    "content": ". | Use Markdown format. | Use LaTeX for equations if needed ($$...$$). | Code blocks should be language-tagged (e.g., ```python). | Figures and diagrams can be added via URLs or static images. | . ",
+    "url": "/aispace-chapter/docs/1_Contribution%20Guideline.html#-formatting-and-style-guidelines",
+    
+    "relUrl": "/docs/1_Contribution%20Guideline.html#-formatting-and-style-guidelines"
+  },"7": {
+    "doc": "Contribution Guideline",
+    "title": "✅ Checklist Before Submission",
+    "content": ". | All required sections are included. | Content has been proofread for grammar and clarity. (You could use Grammarly or similar tools) | Technical content is accurate and reproducible. (Best plan: try to reproduce using ONLY what you wrote) | Citations and references are added where appropriate. | Create a Pull Request to the main branch so the team can review your article and provide feedback. | . ",
+    "url": "/aispace-chapter/docs/1_Contribution%20Guideline.html#-checklist-before-submission",
+    
+    "relUrl": "/docs/1_Contribution%20Guideline.html#-checklist-before-submission"
+  },"8": {
+    "doc": "Contribution Guideline",
+    "title": "Contribution Guideline",
+    "content": " ",
+    "url": "/aispace-chapter/docs/1_Contribution%20Guideline.html",
+    
+    "relUrl": "/docs/1_Contribution%20Guideline.html"
+  },"9": {
+    "doc": "Machine Learning Landscape",
+    "title": "This document introduces AI, ML, and their relationship with Deep Learning, setting the foundation for the series.",
+    "content": "What is Artificial Intelligence (AI)? . Artificial Intelligence refers to the simulation of human intelligence in machines, enabling them to think, learn, and adapt. At its core, AI mimics cognitive functions such as: . | Recognizing patterns (e.g., identifying faces in images). | Understanding and generating language (e.g., GPT models). | Making decisions (e.g., AI playing chess). | . Mathematically, AI can involve defining state spaces ( S ) and actions ( A ) to maximize an objective function ( J ): [ J = \\mathbb{E} \\left[ R(s, a) \\right], \\quad s \\in S, a \\in A ] Where ( R(s, a) ) is the reward function for a given state ( s ) and action ( a ). Visual Representation of AI Systems: . AI encompasses rule-based systems, expert systems, and machine learning models, which we can basically simplify in a backward chaining diagram where each decision is compressed in probabilistic or statistical information. What is Machine Learning (ML)? . Machine Learning is a subset of AI that enables systems to learn from data and improve their performance over time without explicit programming. “A machine learns if its performance improves with experience.” — Shai Shalev-Shwartz and Shai Ben-David . ML algorithms find patterns in data, generate insights, and make predictions. Mathematical Foundation . In ML, we aim to minimize a loss function ( L ), where: . [ \\theta^* = \\arg \\min_{\\theta} \\sum_{i=1}^n L(y_i, f(x_i; \\theta)) ] . | ( x_i ): Input data. | ( y_i ): Target output. | ( f(x_i; \\theta) ): Model prediction with parameters ( \\theta ). | ( L ): Loss function measuring prediction error. | . For example, in linear regression: . [ L = \\frac{1}{n} \\sum_{i=1}^n (y_i - (\\theta_0 + \\theta_1 x_i))^2 ] . Examples of Machine Learning Applications . | Application | Example Use Case | . | Healthcare | Predicting diseases based on medical data. | . | Finance | Detecting fraudulent transactions. | . | E-commerce | Recommending products to users. | . | Customer Support | AI chatbots for 24/7 support. | . | Transportation | Optimizing delivery routes. | . The Relationship Between AI, ML, and Deep Learning . The three concepts are nested subsets: . | AI: The broad field of intelligent systems. | ML: A subset of AI focusing on learning from data. | Deep Learning: A specialized ML subset using neural networks to solve complex tasks. | . Visual Representation: . Deep Learning is a specialized field of ML powered by neural networks. Example Scenarios . | Artificial Intelligence: . | AI Chatbot answering customer queries. | A rule-based system playing tic-tac-toe. | . | Machine Learning: . | A model predicting housing prices based on past sales data. | Netflix recommending shows based on your viewing history. | . | Deep Learning: . | A neural network recognizing cats in images. | Speech-to-text transcription in real time. | . | . Example Visual - Deep Learning in Action: . Deep Learning models can identify complex features in images. Why Machine Learning Matters . Machine Learning is driving innovation across industries, solving real-world problems with unprecedented speed and accuracy. Key Benefits of ML: . | Automation: Automates repetitive tasks to improve efficiency. | Prediction: Predicts outcomes like stock prices or customer behavior. | Optimization: Enhances processes such as route planning or energy consumption. | . Practical Applications . | Healthcare: . | Detecting diseases from X-rays. | Personalizing treatment plans using ML algorithms. | . | Finance: . | Fraud detection in transactions. | Algorithmic trading for stock markets. | . | E-commerce and Entertainment: . | Recommender systems for products, music, and movies. | Chatbots and virtual assistants for customer service. | . | . High-Level Topics Covered in This Series . This series will provide a comprehensive understanding of: . | Types of Machine Learning: Supervised, Unsupervised, Reinforcement Learning. | Popular ML Algorithms: Linear Regression, SVMs, Decision Trees, and Neural Networks. | Real-World Applications: Understanding ML in domains like healthcare, finance, and more. | AI Tools and APIs: Exploring OpenAI GPT, ElevenLabs, Runway ML, and ComfyUI. | . Each document builds on the previous one, helping you progress from understanding basic concepts to leveraging AI tools in practical projects. Conclusion . Artificial Intelligence and Machine Learning are transforming industries and redefining human potential. Understanding their core principles is the first step to mastering these technologies and applying them effectively. Through this series, you’ll gain a strong foundation to explore ML algorithms, real-world applications, and powerful AI tools. References . | Shalev-Shwartz, S., &amp; Ben-David, S. (2014). Understanding Machine Learning: From Theory to Algorithms. Cambridge University Press. | OpenAI Documentation: https://platform.openai.com/docs | Stanford University CS229: https://cs229.stanford.edu/ | Goodfellow, I., Bengio, Y., &amp; Courville, A. (2016). Deep Learning. MIT Press. | Medium - ML Basics: https://towardsdatascience.com/ | . ",
+    "url": "/aispace-chapter/docs/2_Machine%20Learning%20Landscape.html#this-document-introduces-ai-ml-and-their-relationship-with-deep-learning-setting-the-foundation-for-the-series",
+    
+    "relUrl": "/docs/2_Machine%20Learning%20Landscape.html#this-document-introduces-ai-ml-and-their-relationship-with-deep-learning-setting-the-foundation-for-the-series"
+  },"10": {
+    "doc": "Machine Learning Landscape",
+    "title": "Machine Learning Landscape",
+    "content": "Introduction to Machine Learning and AI . Machine Learning (ML) and Artificial Intelligence (AI) are revolutionizing the modern world, enabling machines to analyze data, make decisions, and perform tasks traditionally reserved for humans. From chatbots to autonomous vehicles, AI is embedded in countless applications, solving complex problems and enhancing productivity. ",
+    "url": "/aispace-chapter/docs/2_Machine%20Learning%20Landscape.html",
+    
+    "relUrl": "/docs/2_Machine%20Learning%20Landscape.html"
+  },"11": {
+    "doc": "Classification in ML - Introduction",
+    "title": "Classification in ML - Introduction",
+    "content": "Classification in ML - Introduction . Machine Learning can be broadly categorized into three main types: . | Supervised Learning | Unsupervised Learning | Reinforcement Learning | . Additionally, Semi-supervised Learning and Self-supervised Learning serve as bridges between the traditional paradigms, addressing scenarios with limited labeled data. This section explains each type, provides real-world examples, includes mathematical insights, and suggests visual figures for clarity. 1. Supervised Learning . In Supervised Learning, the model learns from labeled data where the input ( X ) is paired with the desired output ( Y ). The objective is to approximate a mapping function ( f: X \\to Y ). Mathematical Foundation . Given a dataset ( D = {(x_1, y_1), (x_2, y_2), \\dots, (x_n, y_n)} ): . | The goal is to minimize a loss function ( L(y, \\hat{y}) ), where ( \\hat{y} = f(x; \\theta) ). | For regression, the Mean Squared Error (MSE) is commonly used: | . [ L = \\frac{1}{n} \\sum_{i=1}^n (y_i - f(x_i; \\theta))^2 ] . | For classification, the Cross-Entropy Loss is used: | . [ L = - \\frac{1}{n} \\sum_{i=1}^n \\left[ y_i \\log(\\hat{y}_i) + (1 - y_i) \\log(1 - \\hat{y}_i) \\right] ] . Practical Examples . | Application | Use Case | Algorithm | . | Finance | Fraud detection in transactions | Logistic Regression | . | Healthcare | Disease diagnosis from medical scans | Support Vector Machines | . | Marketing | Customer churn prediction | Random Forest | . Visual Suggestions . | Supervised Learning Process: . | Visual: Diagram showing labeled data flowing into a model, resulting in predictions with ground-truth comparisons. | Example: Predicting house prices with input features (area, rooms) and labeled outputs (price). | . Placeholder: . | . 2. Unsupervised Learning . In Unsupervised Learning, the model works with unlabeled data and aims to uncover patterns, groupings, or structures within the data. Key Methods . | Clustering: Grouping similar data points into clusters. | Example: Customer segmentation using K-Means. | . | Dimensionality Reduction: Reducing data dimensions while retaining essential features. | Example: Principal Component Analysis (PCA) for visualizing high-dimensional data. | . | . Mathematical Foundation . Clustering (e.g., K-Means) minimizes the distance between data points and cluster centroids: . [ J = \\sum_{i=1}^n \\min_{\\mu_k} |x_i - \\mu_k|^2 ] . Where: . | ( x_i ): Data points. | ( \\mu_k ): Centroids of clusters. | . Practical Examples . | Application | Use Case | Algorithm | . | E-commerce | Customer segmentation | K-Means Clustering | . | Image Processing | Anomaly detection in images | Autoencoders | . | Finance | Detecting abnormal patterns | DBSCAN | . Visual Example . | Clustering Illustration: . | Scatter plot with distinct clusters labeled by color. | . | . 3. Reinforcement Learning (RL) . Reinforcement Learning involves an agent interacting with an environment to take actions ( a ) in order to maximize cumulative rewards ( R ). It learns through trial and error. Mathematical Foundation . Modeled as a Markov Decision Process (MDP): . | ( S ): States. | ( A ): Actions. | ( R ): Rewards. | ( \\gamma ): Discount factor. | . The goal is to maximize expected cumulative reward: . [ G_t = \\mathbb{E} \\left[ \\sum_{k=0}^\\infty \\gamma^k R_{t+k+1} \\right] ] . Practical Examples . | Application | Use Case | Algorithm | . | Robotics | Robot learning to walk | Q-Learning | . | Gaming | AI mastering games like Chess/Go | Deep Q-Networks (DQN) | . | Autonomous Vehicles | Learning optimal driving strategies | Policy Gradient Methods | . Visual Example . | Reinforcement Learning Flow: . | Diagram showing an agent interacting with the environment, taking actions, and receiving rewards. This is applied for example in a robot navigating a maze. | . | . 4. Semi-supervised Learning . Semi-supervised Learning is a hybrid approach that combines a small amount of labeled data with a large amount of unlabeled data to train models. | Use Case: Labeling millions of images when only a few are annotated. | Method: Use labeled data to bootstrap predictions for unlabeled data. | . 5. Self-supervised Learning . Self-supervised Learning generates pseudo-labels from the data itself, often used for pre-training deep learning models. | Use Case: Training GPT models to predict the next word in a sentence. | . Visual Idea: Example showing a language model predicting masked tokens in a sentence: . [ \\text{Input}: \\text{The cat sat on the [MASK].} \\text{Prediction}: \\text{“mat”} ] . Summary Table . | Type | Data Type | Task | Example | . | Supervised Learning | Labeled Data | Regression, Classification | Predicting house prices | . | Unsupervised Learning | Unlabeled Data | Clustering, PCA | Customer segmentation | . | Reinforcement Learning | Interaction with Environment | Maximize rewards | Robot navigating a maze | . | Semi-supervised | Small labeled + unlabeled | Classification | Image classification with few labels | . | Self-supervised | Pseudo-labels from data | Pre-training | GPT language model training | . Conclusion . Understanding the types of Machine Learning is crucial to choosing the right approach for any problem. Supervised Learning excels with labeled data, Unsupervised Learning discovers hidden patterns, and Reinforcement Learning teaches agents to make optimal decisions. Semi-supervised and Self-supervised Learning address modern challenges where labeled data is scarce, expanding ML’s capabilities. References . | Shalev-Shwartz, S., &amp; Ben-David, S. (2014). Understanding Machine Learning: From Theory to Algorithms. Cambridge University Press. | Sutton, R. S., &amp; Barto, A. G. (2018). Reinforcement Learning: An Introduction. MIT Press. | Stanford CS229: https://cs229.stanford.edu | Self-supervised Learning Overview: https://arxiv.org | . ",
+    "url": "/aispace-chapter/docs/3_Classification%20in%20ML%20-%20Introduction.html",
+    
+    "relUrl": "/docs/3_Classification%20in%20ML%20-%20Introduction.html"
+  },"12": {
+    "doc": "Supervised",
+    "title": "Supervised",
+    "content": "4. Training Models . Scope: . | Explain the concept of labeled data and prediction tasks. | Discuss regression and classification problems. | Introduce key algorithms: Linear Regression, Decision Trees, and Support Vector Machines (SVM). | Provide practical examples. | . ",
+    "url": "/aispace-chapter/docs/4_Training%20Models.html",
+    
+    "relUrl": "/docs/4_Training%20Models.html"
+  },"13": {
+    "doc": "SVM and Decision Tree",
+    "title": "SVM and Decision Tree",
+    "content": "5. SVM and Decision Tree . Scope: . | Define clustering and dimensionality reduction. | Introduce algorithms like K-Means, DBSCAN, and PCA (Principal Component Analysis). | Use real-world examples such as customer segmentation and anomaly detection. | . ",
+    "url": "/aispace-chapter/docs/5_SVM%20and%20Decision%20Tree.html",
+    
+    "relUrl": "/docs/5_SVM%20and%20Decision%20Tree.html"
+  },"14": {
+    "doc": "Unsupervised Learning Methods",
+    "title": "Unsupervised Learning Methods",
+    "content": "5. Unsupervised Learning Methods . Scope: . | Explain the basics of neural networks and their architecture. | Introduce key concepts like activation functions, backpropagation, and gradient descent. | Discuss high-level applications: image recognition, NLP, and generative models. | . ",
+    "url": "/aispace-chapter/docs/6_Unsupervised%20Learning%20Methods.html",
+    
+    "relUrl": "/docs/6_Unsupervised%20Learning%20Methods.html"
+  },"15": {
+    "doc": "AI with Python - Common algoritms Introduction",
+    "title": "AI with Python - Common algoritms Introduction",
+    "content": "7. AI with Python - Common algoritms Introduction . Scope: . | Introduce key ML algorithms: . | Linear Models: Linear Regression, Logistic Regression | Tree-Based Models: Decision Trees, Random Forest, Gradient Boosting | Clustering: K-Means, DBSCAN | Advanced: Ensemble Methods, SVM | . | Explain when and how to use these algorithms. | Provide intuitive examples for each. | . ",
+    "url": "/aispace-chapter/docs/7_AI%20with%20Python%20-%20Common%20algoritms%20Introduction.html",
+    
+    "relUrl": "/docs/7_AI%20with%20Python%20-%20Common%20algoritms%20Introduction.html"
+  },"16": {
+    "doc": "AI with Node - Common algoritms Introduction",
+    "title": "AI with Node - Common algoritms Introduction",
+    "content": "8. AI with Node - Common algoritms Introduction . Scope: . | Explain what APIs are and how they enable AI solutions. | Discuss the benefits of using AI APIs (speed, scalability, accessibility). | Introduce popular AI tools covered in the subsequent documents. | . ",
+    "url": "/aispace-chapter/docs/8_AI%20with%20Node%20-%20Common%20algoritms%20Introduction.html",
+    
+    "relUrl": "/docs/8_AI%20with%20Node%20-%20Common%20algoritms%20Introduction.html"
+  },"17": {
+    "doc": "Deep Learning - Brief Introduction",
+    "title": "Deep Learning - Brief Introduction",
+    "content": "9. Deep Learning - Brief Introduction . Scope: . | Explain the capabilities of OpenAI’s GPT (language models, assistants, etc.). | Explore fine-tuning GPT models for specific tasks. | Discuss real-time chat implementations and use cases. | Include examples like chatbots and customer support. | . ",
+    "url": "/aispace-chapter/docs/9_Deep%20Learning%20-%20Brief%20Introduction.html",
+    
+    "relUrl": "/docs/9_Deep%20Learning%20-%20Brief%20Introduction.html"
+  },"18": {
+    "doc": "Home",
+    "title": "Welcome to the AI Development Guidelines!",
+    "content": "Hey Space! . Welcome to your AI Chapter! 🎉 . Here, you’ll find everything you need to know about building clean, efficient, and maintainable AI systems. Whether you’re working on model training, fine-tuning, or deploying AI solutions, these guidelines will ensure we are all aligned and delivering state-of-the-art results. Want to contribute? Reach out to Mario De Los Santos to coordinate! You can also check our roadmap and planning spreadsheet to see what’s coming next. ",
+    "url": "/aispace-chapter/#welcome-to-the-ai-development-guidelines",
+    
+    "relUrl": "/#welcome-to-the-ai-development-guidelines"
+  },"19": {
+    "doc": "Home",
+    "title": "Why Do We Need This?",
+    "content": "Great question! Consistency is key to our success in the AI as company. By following these guidelines, we could: . | Collaborate Smoothly: Consistent code and processes make it easier to work on each other’s AI models and pipelines. | Ensure Model Quality: Well-structured code and documentation improve reproducibility, debugging, and scalability of AI systems. | Speed Up Onboarding: New team members can quickly understand and contribute to the codebase, datasets, and models. | Optimize Development: Cleaner workflows, better testing, and well-documented AI experiments lead to fewer issues and faster iterations. | Enjoy the Process: Let’s face it, building cutting-edge AI systems is more enjoyable when our code and models are clean, organized, and easy to work with! | . Let’s work together to innovate, collaborate, and set the standard for AI development 🚀. ",
+    "url": "/aispace-chapter/#why-do-we-need-this",
+    
+    "relUrl": "/#why-do-we-need-this"
+  },"20": {
+    "doc": "Home",
+    "title": "📚 Chapter Overview",
+    "content": "| # | Chapter | Description | . | 1 | Machine Learning Landscape | An overview of the main types of ML (supervised, unsupervised, reinforcement learning) with real-world examples. Introduces core concepts, algorithms, and application domains. | . | 2 | Classification in ML - Introduction | Introduction to classification tasks, from binary to multi-class problems. Includes basic metrics (accuracy, precision, recall) and example use cases like spam detection or image labeling. | . | 3 | Training Models | Covers the training process: data splitting, model fitting, evaluation, and tuning. Introduces key ideas like overfitting, underfitting, cross-validation, and hyperparameter search. | . | 4 | SVM and Decision Tree | Explains how Support Vector Machines and Decision Trees work, with visual examples. Discusses their strengths, weaknesses, and when to choose one over the other. | . | 5 | Unsupervised Learning Methods | Overview of clustering and dimensionality reduction techniques like K-Means, DBSCAN, PCA, and t-SNE. Shows how these are used to uncover hidden patterns in data. | . | 6 | AI with Python - Common algoritms Introduction | Hands-on introduction to popular ML algorithms using Python libraries (Scikit-learn, XGBoost, Keras). Includes code snippets and guided examples with small datasets. | . | 7 | AI with Node - Common algorithms Introduction | Intro to using AI/ML in JavaScript environments, using libraries like TensorFlow.js and Brain.js. Focused on inference and browser-based ML with demos. | . | 8 | Deep Learning - Brief Introduction | Presents the basics of neural networks, layers, activation functions, and architectures like CNNs and RNNs. Helps understand how DL differs from traditional ML. | . | 9 | Generative Image models - Introduction to Services and Models | Intro to image generation using tools like DALL·E, Stable Diffusion, and Midjourney. Includes prompt engineering tips and ethical considerations. | . | 10 | Large Lenguage Models - Introduction and Model selection | Explains how LLMs like GPT, Claude, LLaMA, etc., work and differ. Helps choose the right model based on task: summarization, chatbots, code generation, etc. | . | 11 | GPT Tools - Practical Introduction | Hands-on guide to using GPT-based tools via APIs or platforms like ChatGPT. Covers prompt design and tool usage. | . | 12 | Audio Generation and Processing | Explores audio-based AI including Text-to-Speech (e.g., ElevenLabs), Speech Recognition (e.g., Whisper), and voice cloning. Includes links to samples and tools. | . | 13 | Data Science - Landscape | Introduces Data Science roles, workflows, and common tasks like EDA, modeling, and storytelling. Explains tools used. | . | 14 | Data Enginering vs Data Scientist | Highlights the distinction between data engineers and data scientists. Includes a comparison table and explanation of tools (Airflow, Spark, SQL vs Python, ML libraries). | . Part 1: High-Level Machine Learning Concepts . | Machine Learning Landscape | Classification in ML - Introduction | Training Models | Unsupervised Learning Methods | Data Science - Landscape | . Part 2: AI Solutions and APIs . | SVM and Decision Tree | AI with Python - Common algoritms Introduction | AI with Node - Common algorithms Introduction | Deep Learning - Brief Introduction | Generative Image models - Introduction to Services and Models | Large Lenguage Models - Introduction and Model selection | GPT Tools - Practical Introduction | Audio Generation and Processing | Data Enginering vs Data Scientist | . ",
+    "url": "/aispace-chapter/#-chapter-overview",
+    
+    "relUrl": "/#-chapter-overview"
+  },"21": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/aispace-chapter/",
+    
+    "relUrl": "/"
+  }
+}
