@@ -34,7 +34,8 @@ Required qualifications:
 - Ability to work with complex and unstructured data.
 
 Tools:
-- TBD
+- Specific data scientist Python or R libraries to manipulate data, create predictive models and make statistical analysis;
+- Visualization tools to analyse and present the data in a more proper way such as Matplotlib (python library) or Tableau.
 
 
 ### Data Engineer
@@ -55,7 +56,12 @@ Typical qualifications:
 - Knowledge of data modeling, data integration, and data quality concepts.
 
 Tools:
-- TBD
+- To create ETL data pipelines:
+    * Programming languages like Python or Java
+    * Spark to create pipelines that process huge amounts of data
+    * ETL tools that use flowcharts such as Azure Data Factory
+- Pipeline orchestrator like Airflow to schedule and monitor data pipelines;
+- Data warehouse tools such as BigQuery to maintain the data warehouse
 
 ### Data Analyst
 Responsible for collecting, processing, and performing statistical analyses on large sets of data. They use various analytical tools and techniques to extract meaningful insights from data and communicate those insights to decision-makers. They are focused on reporting on the current state as opposed to predictive analytics.
@@ -74,7 +80,8 @@ Typical qualifications:
 - Ability to work with complex and unstructured data.
 
 Tools:
-- TBD
+- Visualization tools such as Tableau, PowerBI and Looker
+- Tools to analyse the data such as BigQuery and Excel 
 
 ------------
 All of these roles need to have strong analytical and problem-solving skills as well as strong communication skills and ability to work collaboratively with cross-functional teams. These roles usually work together to achieve the goals.
@@ -87,9 +94,27 @@ The following table highlights the main differences and responsibilities among t
 | Knowledge | Statistics, math, programming skills (Python or R), SQL and predictive models | Programming skills (Java, Python), SQL, Cloud computing, ETL tools | SQL, Excel and data visualization tools (i.e. Tableau)|
 
 ## Data Science Workflows
+In a typical data science project, the workflow starts with defining **the business problem**. For instance, imagine a clothing e-commerce that notices a high rate of shopping cart abandonment.The goal is to understand why users abandon their carts and how to reduce the rate. At this stage, a Data Scientist plays a key role by defining the problem in analytical terms and proposing a predictive modeling approach, while a Data Analyst helps clarify the business context and relevant performance indicators.
 
+The next step is **the data collection**. Data is pulled from various sources, such as website clickstreams, cart activity logs, customer information, and session timestamps. This phase involves the Data Engineer, who builds robust data pipelines and ensures data is accessible, reliable, and scalable. Meanwhile, the Data Scientist defines what data is needed, and the Data Analyst may help identify specific business metrics to capture.
 
+Once the data is collected, **the cleaning and preparation process** starts. This includes handling missing values, encoding categorical variables, and creating meaningful features like session duration or whether a user is new or returning. Data Engineers often clean data and optimize data storage, while Data Scientists perform advanced preprocessing and feature engineering. Data Analysts might support this phase through exploratory SQL queries or preparing subsets of the data.
 
+**Exploratory Data Analysis (EDA)** follows. This phase is crucial for finding out trends and patterns. Analysts might discover that most abandoned carts include discounted items, or that abandonment peaks during late-night hours. Data Analysts take the lead in creating visualizations and descriptive statistics, while Data Scientists explore deeper correlations and test hypotheses that guide the modeling process.
+
+The core of the project is **building a predictive model**. Using machine learning algorithms, the Data Scientist trains a model to predict the likelihood of a user abandoning their cart. Then the model is evaluated using some metrics. Data Engineers may assist by scaling up training processes or preparing infrastructure for model deployment.
+
+Once the model is performing well, the team interprets the results. Suppose the model reveals that high shipping costs or slow website performance are strong predictors of abandonment. The team can recommend interventions such as offering discounts, streamlining the checkout process, or sending reminder emails. Here, Data Scientists explain the model outputs, and Data Analysts help translate insights into business actions. This is normally known as **the storytelling** step.
+
+Besides the storytelling, it is important to **implement the model** into production on the store's website. Doing that, if a customer shows signs of abandoning a cart, the system might trigger a discount pop-up or some strategy to attract him. Data Engineers handle integration and deployment, ensuring performance and scalability, while Data Scientists monitor the model’s accuracy post-deployment.
+
+Finally, the **continuous evaluation** step ensures the model remains effective. Over time, user behavior may change, and the model needs retraining. Data Scientists take charge of model maintenance and re-training, Data Analysts track KPIs and evaluate success, and Data Engineers adapt data infrastructure to new needs.
+
+![Data Science Workflow](/aispace-chapter/assets/img/ds_workflow.png)
+
+It is important to note that the stages of a data science project are not strictly sequential. Reaching one stage may require going back to a previous one. It is more of an iterative process than a linear one.
+
+Additionally, depending on the project, one role may play a more prominent part than others. In the example provided, data scientists and data engineers take on a more significant role. However, there are other types of projects where the data analyst becomes more central — for instance, in tasks like customer segmentation or analyzing customer acquisition cost (CPA) across different time periods.
 
 Sources:
 [What is Data Science? - AWS](https://aws.amazon.com/what-is/data-science/)
