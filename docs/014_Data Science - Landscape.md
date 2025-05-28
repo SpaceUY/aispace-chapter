@@ -122,8 +122,9 @@ It is important to note that the stages of a data science project are not strict
 Additionally, depending on the project, one role may play a more prominent part than others. In the example provided, data scientists and data engineers take on a more significant role. However, there are other types of projects where the data analyst becomes more central — for instance, in tasks like customer segmentation or analyzing customer acquisition cost (CPA) across different time periods.
 
 Sources:
-[What is Data Science? - AWS](https://aws.amazon.com/what-is/data-science/)
 
-[What is Data Science? - IBM](https://www.ibm.com/think/topics/data-science)
+- [What is Data Science? - AWS](https://aws.amazon.com/what-is/data-science/)
 
-[Data Science Roles – A Definitive Guide](https://www.datascience-pm.com/data-science-roles/)
+- [What is Data Science? - IBM](https://www.ibm.com/think/topics/data-science)
+
+- [Data Science Roles – A Definitive Guide](https://www.datascience-pm.com/data-science-roles/)
