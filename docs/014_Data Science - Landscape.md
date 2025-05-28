@@ -1,3 +1,8 @@
+---
+title: Data Science - Landscape
+layout: default
+nav_order: 14
+---
 # Data Science - Landscape
 
 Most people believe that data science is solely about developing predictive models using machine learning, overlooking the many other tasks required to make those predictions possible. The goal of this chapter is to present the main roles within this branch of computer science and explain their main responsabilities.
