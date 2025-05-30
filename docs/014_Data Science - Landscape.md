@@ -103,7 +103,7 @@ In a typical data science project, the workflow starts with defining **the busin
 
 The next step is **the data collection**. Data is pulled from various sources, such as website clickstreams, cart activity logs, customer information, and session timestamps. This phase involves the Data Engineer, who builds robust data pipelines and ensures data is accessible, reliable, and scalable. Meanwhile, the Data Scientist defines what data is needed, and the Data Analyst may help identify specific business metrics to capture.
 
-Once the data is collected, **the cleaning and preparation process** starts. This includes handling missing values, encoding categorical variables, and creating meaningful features like session duration or whether a user is new or returning. Data Engineers often clean data and optimize data storage, while Data Scientists perform advanced preprocessing and feature engineering. Data Analysts might support this phase through exploratory SQL queries or preparing subsets of the data.
+Once the data is collected, **the cleaning and preparation process** starts. This includes handling missing values, encoding categorical variables, standardize data types and creating meaningful features like session duration or whether a user is new or returning. The quality of the data depends on this phase. Data Engineers often clean data and optimize data storage, while Data Scientists perform advanced preprocessing and feature engineering, defining the transformations needed and the relevant variables. Data Analysts might support this phase through exploratory SQL queries, preparing subsets of the data or evaluating the data quality from a business perspective.
 
 **Exploratory Data Analysis (EDA)** follows. This phase is crucial for finding out trends and patterns. Analysts might discover that most abandoned carts include discounted items, or that abandonment peaks during late-night hours. Data Analysts take the lead in creating visualizations and descriptive statistics, while Data Scientists explore deeper correlations and test hypotheses that guide the modeling process.
 
@@ -115,7 +115,7 @@ Besides the storytelling, it is important to **implement the model** into produc
 
 Finally, the **continuous evaluation** step ensures the model remains effective. Over time, user behavior may change, and the model needs retraining. Data Scientists take charge of model maintenance and re-training, Data Analysts track KPIs and evaluate success, and Data Engineers adapt data infrastructure to new needs.
 
-![Data Science Workflow](/aispace-chapter/assets/img/ds_workflow.png)
+![Data Science Workflow](/aispace-chapter/assets/img/014_ds_workflow.png)
 
 It is important to note that the stages of a data science project are not strictly sequential. Reaching one stage may require going back to a previous one. It is more of an iterative process than a linear one.
 
